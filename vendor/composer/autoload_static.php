@@ -15,6 +15,8 @@ class ComposerStaticInitdbb08b35f76b7b2b2f4f0790f84c751d
         'Dispatcher' => __DIR__ . '/../..' . '/application/dispatcher.class.php',
         'HomeView' => __DIR__ . '/../..' . '/views/home/home_view.class.php',
         'IndexView' => __DIR__ . '/../..' . '/views/index_view.class.php',
+        'InventoryController' => __DIR__ . '/../..' . '/controllers/inventory_controller.class.php',
+        'InventoryView' => __DIR__ . '/../..' . '/views/inventory/inventory_view.class.php',
         'SiteController' => __DIR__ . '/../..' . '/controllers/site_controller.class.php',
     );
 
